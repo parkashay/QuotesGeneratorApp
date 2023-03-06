@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuotesGenerator</string>
+    <string name="forOthers">Touch the NEXT button to generate a new quote</string>
+    <string name="defaultQuote">Who should live versus who will live are two entirely separate things.</string>
+    <string name="defaultAuthor">- Jigsaw</string>
+    <string name="btnText">Next</string>
+</resources>
